@@ -2,7 +2,6 @@
     "name": "phpcodex/framework",
     "description": "A PHP Framework",
     "keywords": ["phpcodex", "framework", "mvc"],
-    "license": "Richard Dickinson",
     "type": "project",
     "require": {
 	"php": "^7.1.3",
